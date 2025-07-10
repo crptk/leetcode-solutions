@@ -21,6 +21,6 @@ class Solution:
 
         # Append remaining elements
         if p1 < m:
-            nums1[p:p + (m - p1)] = nums1_copy[p1:]
+            nums1[p:m + n] = nums1_copy[p1:]
         if p2 < n:
-            nums1[p:p + (n - p2)] = nums2[p2:]
+            nums1[p:m + n] = nums2[p2:]
