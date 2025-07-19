@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/crptk/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/crptk/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/crptk/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/crptk/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0020-valid-parentheses](https://github.com/crptk/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/crptk/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/crptk/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/crptk/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [0015-3sum](https://github.com/crptk/leetcode-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/crptk/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/crptk/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/crptk/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
