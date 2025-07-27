@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/crptk/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/crptk/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/crptk/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/crptk/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/crptk/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/crptk/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/crptk/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/crptk/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/crptk/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/crptk/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/crptk/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/crptk/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Math
@@ -43,6 +45,7 @@
 | [0014-longest-common-prefix](https://github.com/crptk/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/crptk/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/crptk/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/crptk/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/crptk/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/crptk/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Trie
@@ -95,6 +98,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/crptk/leetcode-solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/crptk/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/crptk/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/crptk/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/crptk/leetcode-solutions/tree/master/0242-valid-anagram) |
