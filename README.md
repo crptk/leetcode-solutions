@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/crptk/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/crptk/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/crptk/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/crptk/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/crptk/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/crptk/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/crptk/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/crptk/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/crptk/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/crptk/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/crptk/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/crptk/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/crptk/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -158,4 +160,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/crptk/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/crptk/leetcode-solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
