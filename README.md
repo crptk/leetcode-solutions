@@ -15,6 +15,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/crptk/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/crptk/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/crptk/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/crptk/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/crptk/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/crptk/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/crptk/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/crptk/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/crptk/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/crptk/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/crptk/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/crptk/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/crptk/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/crptk/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/crptk/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String Matching
@@ -100,6 +103,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/crptk/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/crptk/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -173,4 +177,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/crptk/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/crptk/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
