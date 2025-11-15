@@ -24,3 +24,18 @@ class Solution:
                 right -= 1
 
         return water
+
+
+'''
+Solution by Crptk
+
+This solution basically sets two points left and right, and keeps iterating until they cross over each other.
+
+For both the left and right sides, we instead of filling up the water only after we reach another wall, we're actually
+filling the water as we go by subtracting the current index on each side to the maximum value/wall on each side, which gives
+us the water to store at that current index. Then when we find a wall that's larger, we know that we can't store water there
+but we can instead set it to the new maximum wall. This continues until the left and right pointers cross.
+
+Time complexity: O(n)
+Space complexity: O(1)
+'''
