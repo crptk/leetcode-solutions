@@ -21,6 +21,7 @@
 | [0088-merge-sorted-array](https://github.com/crptk/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/crptk/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/crptk/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/crptk/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/crptk/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/crptk/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/crptk/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -47,6 +48,7 @@
 | [0066-plus-one](https://github.com/crptk/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/crptk/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/crptk/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/crptk/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/crptk/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/crptk/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/crptk/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/crptk/leetcode-solutions/tree/master/0155-min-stack) |
 ## Linked List
 |  |
