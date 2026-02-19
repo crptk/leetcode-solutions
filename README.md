@@ -29,6 +29,7 @@
 | [0238-product-of-array-except-self](https://github.com/crptk/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/crptk/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/crptk/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/crptk/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0042-trapping-rain-water](https://github.com/crptk/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/crptk/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/crptk/leetcode-solutions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/crptk/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/crptk/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/crptk/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Database
 |  |
 | ------- |
